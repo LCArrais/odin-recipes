@@ -1,0 +1,1 @@
+That is my first project on The Odin Project. Hope i make it all the way to the end of the curriculum.
